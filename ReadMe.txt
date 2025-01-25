@@ -1,8 +1,9 @@
 
-**Social Network Friend Recommendations**
+Social Network Friend Recommendations
+
 This repository contains a Python program to recommend potential friends in a social network based on the number of common friends between users. The algorithm suggests the most likely new friend for a user, excluding current friends.
 
-#### Features
+Features
 The program processes social network data files, performs various analyses, and offers the following functionalities:
 
 Friendship Network Creation: Parse and structure friendship data from input files into a 2D list.
@@ -11,13 +12,13 @@ Common Friends: Identify common friends between two users.
 Statistical Insights: Calculate the maximum, average, and minimum number of friends per user, users with the most friends, and users with a specified minimum number of friends.
 Complete Connections: Check if any user in the network knows everyone.
 
-#### How to Run
+How to Run
 Dependencies: Python 3.x (no additional libraries required).
 Clone Repository:
 git clone <repository_url>  
 cd <repository_directory>  
 
-#### Run the Program:
+Run the Program:
 To utilize this program, users can run the run SocialNetwork.py function, inputting the desired social network file and user ID for friend recommendations. The code validates user input and provides a recommended friend based on common connections
 
 Functions:
