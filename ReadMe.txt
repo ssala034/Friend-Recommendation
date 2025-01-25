@@ -1,5 +1,5 @@
 
-#### Social Network Friend Recommendations
+**Social Network Friend Recommendations**
 This repository contains a Python program to recommend potential friends in a social network based on the number of common friends between users. The algorithm suggests the most likely new friend for a user, excluding current friends.
 
 #### Features
