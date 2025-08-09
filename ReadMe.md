@@ -1,4 +1,4 @@
-# Social Network Friend Recommendations 🌐
+# Social Network Friend Recommendations
 
 ## Overview
 
